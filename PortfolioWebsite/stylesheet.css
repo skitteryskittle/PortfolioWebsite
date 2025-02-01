@@ -1,0 +1,63 @@
+.pagetitle {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 100px;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+li {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+a {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.hero-image {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://cdn.discordapp.com/attachments/883936196584177684/1335331057494655048/IMG_6236.jpg?ex=679fc775&is=679e75f5&hm=0b7b3164aac715cd0bb3de8a1677ffbf87b0082ded920f7bc96fbd8d4ba99d35&);
+    background-position: center center;
+    background-size: cover;
+}
+
+.custom-bullet-text {
+    color: #ffffff;
+    font-size: 24px;
+    line-height: 1.5px;
+    
+}
+
+.bullet-box {
+    border: 3px solid black;
+    background-color: gray;
+    width: 330px;
+
+}
+.bullet-box-words {
+    color: #ffffff;
+    padding-left: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    
+}
+
+.tab-home {
+    border:3px solid black;
+    padding-top: .75em;
+    padding-bottom: .75em;
+    list-style: none;
+    text-align:center;
+    text-transform: uppercase;
+}
+.tab-pages {
+    display: inline-block;
+    padding-right: 1em;
+}
